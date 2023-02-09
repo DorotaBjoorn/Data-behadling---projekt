@@ -1,2 +1,2 @@
-# Data-behadling---projekt
-group project analysis of olympics data presented in a dashboard
+# Databehadling-projekt
+group project, data analysis of olympics historical data presented in a dashboard
